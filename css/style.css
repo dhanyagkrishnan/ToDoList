@@ -1,0 +1,31 @@
+
+body
+{
+    background-color: bisque;
+}
+#tableid
+{
+    background-color: white;
+    text-decoration: rgb(194, 154, 194);
+    margin-left: 25%;
+    margin-right: 30%;
+    margin-top: 5%;
+    border-radius: 1em ;opacity: .75;
+}
+
+th{
+    background-color: rgb(150, 88, 108);
+}
+td{
+    padding-left:1em;
+    padding-right: 1em;
+    padding-top: 1em;
+}
+
+#buttonid
+{
+    background-color: tomato;
+    width: 10em;
+    height:3em;
+
+}
